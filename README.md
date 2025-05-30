@@ -137,6 +137,47 @@ Git
 ```
 
 ### Installation
+```python
+#clone repository 
+git clone : https://github.com/Modupeolawuraola/ML-E-commerce-End-to-end-Analytics
+
+```
+
+### Install dependencies 
+```python
+pip install -r requirements.txt
+
+#download data kaggle API required 
+kaggle datasets download - d olistbr/brazillian-ecommerce
+
+```
+
+### QuickStart 
+```python
+
+# Load and explore data
+python src/data_preprocessing.py
+
+# Run price prediction model
+jupyter notebook notebooks/03_price_prediction.ipynb
+
+# Execute full pipeline
+python src/main.py
+```
+
+### 🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+### 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+### 👤 Author
+Modupeola Fagbenro
+
+- GitHub: @Modupeolawuraola
+- 
+- LinkedIn: https://www.linkedin.com/in/modupeola-fagbenro/
 
 
 
