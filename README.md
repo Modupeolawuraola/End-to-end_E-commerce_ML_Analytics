@@ -1,6 +1,4 @@
-# End-to-End E-commerce Analytics Platform 🛍️
-## 🎯 Project Overview
-
+## 🎯 End-to-End E-commerce Analytics Platform 🛍️: Overview
 A comprehensive machine learning platform analyzing 112,650+ Brazilian e-commerce transactions to drive business insights through predictive modeling, customer analytics, and experimental design. Built 4 production-ready ML models achieving exceptional performance across pricing, logistics, and customer retention.
 
 ## 🚀 Key Results
