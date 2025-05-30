@@ -1,7 +1,4 @@
 # End-to-End E-commerce Analytics Platform 🛍️
-
-![Project Banner](https://img.shields.io/badge/Status-Complete-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![ML](https://img.shields.io/badge/ML-Production_Ready-orange)
-
 ## 🎯 Project Overview
 
 A comprehensive machine learning platform analyzing 112,650+ Brazilian e-commerce transactions to drive business insights through predictive modeling, customer analytics, and experimental design. Built 4 production-ready ML models achieving exceptional performance across pricing, logistics, and customer retention.
@@ -14,6 +11,8 @@ A comprehensive machine learning platform analyzing 112,650+ Brazilian e-commerc
 | **Delivery Optimization** | R² Score | 36% | Logistics efficiency |
 | **Order Classification** | Accuracy | 98% | Operations automation |
 | **Churn Prediction** | Accuracy | 100% | Customer retention |
+
+![Project Banner](https://img.shields.io/badge/Status-Complete-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![ML](https://img.shields.io/badge/ML-Production_Ready-orange)
 
 ### 🔬 A/B Testing Insights
 - **Payment Method Analysis**: Credit card users spend 23% more than boleto users
