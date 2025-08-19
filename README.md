@@ -8,7 +8,7 @@ A comprehensive machine learning platform analyzing 112,650+ Brazilian e-commerc
 | **Price Prediction** | R² Score | 62% | Revenue optimization |
 | **Delivery Optimization** | R² Score | 36% | Logistics efficiency |
 | **Order Classification** | Accuracy | 98% | Operations automation |
-| **Churn Prediction** | Accuracy | 100% | Customer retention |
+| **Churn Prediction** | Accuracy | 84.2% | Customer retention |
 
 ![Project Banner](https://img.shields.io/badge/Status-Complete-brightgreen) ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![ML](https://img.shields.io/badge/ML-Production_Ready-orange)
 
